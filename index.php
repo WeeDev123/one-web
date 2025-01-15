@@ -1,5 +1,5 @@
 <?php
-echo "Weerayuth";
+echo "Git basic";
 
 
 ?>
