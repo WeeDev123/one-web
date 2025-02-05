@@ -1,5 +1,5 @@
 <?php
-echo "Git basic";
+echo "Github basic";
 
 
 ?>
